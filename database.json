@@ -1,0 +1,24 @@
+[
+
+  {
+    "filename": "./MP3/匆匆那年.mp3",
+    "duration": "04:01",
+    "title": "匆匆那年(电影《匆匆那年》同名主题曲)",
+    "album": "匆匆那年",
+    "artist": "王菲"
+  },
+  {
+    "filename": "./MP3/如果我变成回忆.mp3",
+    "duration": "05:01",
+    "title": "如果我变成回忆",
+    "artist": "Tank"
+  },
+
+  {
+    "filename": "./MP3/黄致列-那个人.mp3",
+    "duration": "05:17",
+    "title": "那个人",
+    "album": "我是歌手第四季 第一期",
+    "artist": "黄致列"
+  }
+]
